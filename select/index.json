@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "点描の唄",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T15:19:05.257567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE feat. Sonoko Inoue",
+      "has_synced": true,
+      "path": "select/01_点描の唄_Mrs._GREEN_APPLE_feat._Sonoko_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_点描の唄_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_点描の唄_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE; Sonoko Inoue",
+      "has_synced": true,
+      "path": "select/04_点描の唄_Mrs._GREEN_APPLE;_Sonoko_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/05_点描の唄_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "点描の唄 - Tenbyouno Uta (feat. Sonoko Inoue)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_点描の唄_-_Tenbyouno_Uta_(feat._Sonoko_Inoue)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE,Sonoko Inoue",
+      "has_synced": true,
+      "path": "select/07_点描の唄_Mrs._GREEN_APPLE,Sonoko_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "点描の唄 (feat.井上苑子)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_点描の唄_(feat.井上苑子)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "点描の唄 - ソロ ver.",
+      "artist": "Sonoko Inoue",
+      "has_synced": true,
+      "path": "select/09_点描の唄_-_ソロ_ver._Sonoko_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/10_点描の唄_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "点描の唄",
+      "artist": "Mrs. GREEN APPLE/井上苑子",
+      "has_synced": true,
+      "path": "select/11_点描の唄_Mrs._GREEN_APPLE_井上苑子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "点描の唄 (feat.井上苑子)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_点描の唄_(feat.井上苑子)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
